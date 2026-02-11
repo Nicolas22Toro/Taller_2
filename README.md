@@ -19,6 +19,7 @@ TODO: Agregar los apuntes de clase, sobre como se crea un repositorio y sus prin
 
 TODO: lo vemos la siguiente clase ¡No faltar!
 
-# Creditos
+# Integrantes 
 
 Samuel David Campo Rocha
+Nicolas Gonzales Toro
